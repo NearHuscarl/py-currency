@@ -18,7 +18,7 @@ Installation
 
 .. code:: bash
 
-    $ pip install py-currency
+    $ pip install nh-currency
 
 Usage
 -----
