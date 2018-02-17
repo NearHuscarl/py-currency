@@ -25,7 +25,7 @@ setup(
 		long_description=get_readme(),
 		packages=['currency'],
 		install_requires=['requests'],
-		version='1.0.0',
+		version='1.0.2',
 		author='Near Huscarl',
 		author_email='near.huscarl@gmail.com',
 		url='https://github.com/NearHuscarl/py-currency',

@@ -1,4 +1,5 @@
 __pycache__
-dist/*
+.tox
 *.egg-info
+dist/*
 build/
