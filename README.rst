@@ -1,7 +1,7 @@
 Py Currency
 ===========
 
-Version: 1.0.2
+Version: 1.0.1
 
 A simple currency module to:
 
