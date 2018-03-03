@@ -5,7 +5,7 @@ Version: 1.0.2
 
 A simple currency module to:
 
-* Retrive various info about currency
+* Retrieve various info about currency
 * Format currency price
 * Convert between currencies
 
