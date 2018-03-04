@@ -13,3 +13,5 @@ from currency.currency import (
 		code,
 		info
 		)
+
+from currency.exceptions import CurrencyException

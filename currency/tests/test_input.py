@@ -5,8 +5,8 @@
 # pylint: disable=no-member
 
 import unittest
-from currency.exceptions import CurrencyException
 import currency
+from currency import CurrencyException
 
 class TestInput(unittest.TestCase):
 	""" test currency public functions """
